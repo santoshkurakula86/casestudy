@@ -1,6 +1,6 @@
 title: Santosh Kurakula
 logo: /assets/img/sample.jpg
 description: This is a test website.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
